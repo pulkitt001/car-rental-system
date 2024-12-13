@@ -6,7 +6,7 @@
 
 using namespace std;
 
-// Constants for car rental rates
+
 const map<string, int> CAR_RATES = {
     {"A", 56},
     {"B", 60},
